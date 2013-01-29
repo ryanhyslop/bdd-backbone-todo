@@ -6,6 +6,9 @@
   "scripts": {
     "test": "test"
   },
+    "dependencies" : {
+    "grunt-mocha" :  "0.1.x"
+  },
   "repository": "",
   "keywords": [
     "todo"
